@@ -1,0 +1,16 @@
+ul {
+  list-style-type: none;
+}
+
+.res-card {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  text-align: center;
+  border: solid white 2px;
+  border-radius: 5%;
+  background-color: aquamarine;
+  height: 30%;
+  margin: 1%;
+}

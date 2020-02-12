@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should be an instance of an Form componenet 1`] = `
+<div
+  className="res-form"
+>
+  <input
+    name="name"
+    onChange={[Function]}
+    placeholder="Name"
+    value=""
+  />
+  <input
+    name="date"
+    onChange={[Function]}
+    placeholder="Date (mm/dd)"
+    value=""
+  />
+  <input
+    name="time"
+    onChange={[Function]}
+    placeholder="Time"
+    value=""
+  />
+  <input
+    name="number"
+    onChange={[Function]}
+    placeholder="Number of guests"
+    value=""
+  />
+  <button
+    onClick={[Function]}
+  >
+    Make Reservation
+  </button>
+</div>
+`;

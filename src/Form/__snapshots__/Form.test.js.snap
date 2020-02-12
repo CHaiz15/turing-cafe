@@ -29,6 +29,7 @@ exports[`should be an instance of an Form componenet 1`] = `
     value=""
   />
   <button
+    className="form-btn"
     onClick={[Function]}
   >
     Make Reservation

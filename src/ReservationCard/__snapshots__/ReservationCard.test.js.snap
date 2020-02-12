@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should be an instance of an ReservationCard componenet 1`] = `
+<div
+  className="res-card"
+>
+  <h3>
+    Caleb
+  </h3>
+  <p>
+    02/12
+  </p>
+  <p>
+    7:00
+  </p>
+  <p>
+    Number of guests: 
+    15
+  </p>
+  <button
+    className="res-btn"
+    onClick={[Function]}
+  >
+    Cancel
+  </button>
+</div>
+`;

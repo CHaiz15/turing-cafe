@@ -20,6 +20,7 @@ exports[`should be an instance of an app componenet 1`] = `
     className="resy-container"
   >
     <Reservations
+      deleteReservation={[Function]}
       reservations={Array []}
     />
   </div>

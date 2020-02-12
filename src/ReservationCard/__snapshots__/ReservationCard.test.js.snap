@@ -17,7 +17,10 @@ exports[`should be an instance of an ReservationCard componenet 1`] = `
     Number of guests: 
     15
   </p>
-  <button>
+  <button
+    className="res-btn"
+    onClick={[Function]}
+  >
     Cancel
   </button>
 </div>
